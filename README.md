@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/6929018-blip/6929018-blip/blob/1d9332ec70bf7e643ade8c7a419a271effe9201f/banner.png"/>
+</p>
 
 # 📘 README – Perfil del Estudiante
 
