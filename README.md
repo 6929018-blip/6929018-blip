@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/6929018-blip/6929018-blip/blob/811744f72ccbb633a0efdc8e815780c3611c5604/banner.png/>
-</p>
-
 
 
 # 📘 README – Perfil del Estudiante
