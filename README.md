@@ -1,16 +1,48 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**6929018-blip/6929018-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- *Nombre completo: Xavier Stanley López Cerón *  
+- *Edad: 18 *  
+- *Grado / Sección: 3° Software B *  
+- *Especialidad: Desarrollo de Software *  
+- *Institución: Instituto Nacional de Santiago de María *  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Videojuegos 
+- Basketball   
+
+---
+
+## 🧠 Habilidades
+
+- Creatividad 
+- Sociable    
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación: Php, Python, HTML, C++, SQL.
+- Herramientas tecnológicas:  VSCODE, Netbeans, Wampserver, XAMPP, Management Studio.
+- Otros conocimientos:  Hardware
+
+---
+
+## 📚 Experiencia Académica
+
+- Desarrollo de bases de datos con SQL.
+- Creación de proyectos escolares.
+
+---
+
+## 🎯 Objetivos Personales
+
+- Ser un gran programador de videojuegos
+
+---
+
+## 📌 Notas
